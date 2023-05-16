@@ -78,3 +78,91 @@
  
   ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/82ba02e0-f735-4e8a-a7df-0439b94df768)
 
+
+## 歯医者さんの予約システムの予約登録画面
+
+### 🔻 プロンプト( フリーバージョンなのでこのくらい言わないときちんと作ってくれない )
+<pre>
+歯医者さんの予約システムの予約登録画面を作成してください
+- bootstrap を使用
+- ヘッダ部にサイトの各ページへ画面遷移するリンクを作成
+</pre>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <title>予約登録</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">歯医者さんの予約システム</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">予約一覧</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">患者管理</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">設定</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h2>予約登録</h2>
+    <form>
+      <div class="form-group">
+        <label for="date">予約日</label>
+        <input type="date" class="form-control" id="date" name="date" required>
+      </div>
+      <div class="form-group">
+        <label for="time">予約時間</label>
+        <input type="time" class="form-control" id="time" name="time" required>
+      </div>
+      <div class="form-group">
+        <label for="name">患者名</label>
+        <input type="text" class="form-control" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+        <label for="phone">電話番号</label>
+        <input type="tel" class="form-control" id="phone" name="phone" required>
+      </div>
+      <button type="submit" class="btn btn-primary">登録</button>
+    </form>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+```
+
+### [リアルタイム HTML に貼り付けて、『新しく開く』](https://toolbox.winofsql.jp/html-page.php)
+
+![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/90bae651-5529-4bc3-b12a-08d6a82f09f0)
+
+- スマホ表示
+
+  ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/12b7a8a9-c2ee-484c-b07e-e563f8830e46)
+
+  ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/c2299323-565f-463a-9913-0a7f88067bb9)
+
+  ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/c5754476-ece0-4538-8e3f-6ae8de468e85)
+
