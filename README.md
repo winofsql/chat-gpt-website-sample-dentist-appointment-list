@@ -70,5 +70,6 @@
 ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/91754615-32e5-4c71-9a7b-c5480343b393)
 
 - スマホ表示
+
   ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/8dd57f8c-c94b-4b4c-a849-35900c2b2b27)
  
