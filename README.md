@@ -166,7 +166,7 @@
 
   ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/c5754476-ece0-4538-8e3f-6ae8de468e85)
 
-- ### 補足説明
+- ### ChatGPT による補足説明
 
 ヘッダ部にはBootstrapの`navbar`コンポーネントを使用して作成しました。`navbar-brand`クラスを使用してロゴやサイト名を表示し、`navbar-toggler`クラスを使用してモバイル表示時のメニューの切り替えを行います。各ページへのリンクは`navbar-nav`クラスを持つリストとして配置し、`nav-link`クラスを使用してスタイリングしています。
 
