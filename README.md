@@ -64,3 +64,5 @@
 
 </html>
 ```
+
+### [リアルタイム HTML に貼り付けて、『新しく開く』](https://toolbox.winofsql.jp/html-page.php)
