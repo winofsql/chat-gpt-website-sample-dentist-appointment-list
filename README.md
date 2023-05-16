@@ -66,3 +66,6 @@
 ```
 
 ### [リアルタイム HTML に貼り付けて、『新しく開く』](https://toolbox.winofsql.jp/html-page.php)
+
+![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/0a994d71-5202-4e97-bd15-d8a6a3bcc0af)
+
