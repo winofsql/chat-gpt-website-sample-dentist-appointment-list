@@ -73,4 +73,5 @@
 
   ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/8dd57f8c-c94b-4b4c-a849-35900c2b2b27)
  
-  ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/583a4d73-8e2f-4c58-8c39-3738fbe316e2)
+  ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/82ba02e0-f735-4e8a-a7df-0439b94df768)
+
