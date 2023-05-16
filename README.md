@@ -1,6 +1,6 @@
 # chat-gpt-website-sample-dentist-appointment-list
 
-歯医者さんの予約システムの予約一覧確認画面
+## 歯医者さんの予約システムの予約一覧確認画面
 
 <pre>
 歯医者さんの予約システムの予約一覧確認画面を作成してください
