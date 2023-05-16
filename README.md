@@ -166,3 +166,11 @@
 
   ![image](https://github.com/winofsql/chat-gpt-website-sample-dentist-appointment-list/assets/1501327/c5754476-ece0-4538-8e3f-6ae8de468e85)
 
+- ### 補足説明
+ヘッダ部にはBootstrapのnavbarコンポーネントを使用して作成しました。navbar-brandクラスを使用してロゴやサイト名を表示し、navbar-togglerクラスを使用してモバイル表示時のメニューの切り替えを行います。各ページへのリンクはnavbar-navクラスを持つリストとして配置し、nav-linkクラスを使用してスタイリングしています。
+
+予約登録フォームはcontainerクラス内に配置されています。form-groupクラスを使用して各入力項目をグループ化し、form-controlクラスを持つinput要素を使用して入力フィールドを作成しています。登録ボタンはbtnクラスとbtn-primaryクラスを使用してスタイリングしています。
+
+最後に、Bootstrapに必要なJavaScriptの依存関係を読み込んでいます。jQuery、Popper.js、BootstrapのJavaScriptファイルを順に読み込むことで、Bootstrapの機能を有効化しています。
+
+以上が歯医者さんの予約システムの予約登録画面の例です。適宜、リンクのURLやフォームの入力項目をカスタマイズしてください。
